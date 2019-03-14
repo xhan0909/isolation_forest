@@ -1,0 +1,5 @@
+numpy==1.16.*
+matplotlib==3.*
+pandas==0.23.*
+scipy==1.1.*
+scikit-learn==0.20.*
