@@ -1,3 +1,5 @@
+# Reference: https://github.com/parrt/msds689/blob/master/projects/iforest/score.py
+
 import numpy as np
 import pandas as pd
 from sklearn.metrics import confusion_matrix
